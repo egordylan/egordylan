@@ -6,5 +6,5 @@ I am @egordylan
 - 🍱 Also, I'm currently working with Cypress, Mocha, WebdriverIO, Selenium, Chai
 - 📫 How to reach me: egordylan@gmail.com
 - :atom: I am on [codewars](https://www.codewars.com/users/egordylan)
-- 🌲: I am on [stepik](https://stepik.org/users/360732775)
+- 🌲 I am on [stepik](https://stepik.org/users/360732775)
 
